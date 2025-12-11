@@ -17,7 +17,6 @@ import androidx.navigation.NavGraphBuilder
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.app.k1.ecu_flash.ui.screens.auth.splash.SplashScreen
 import com.app.k1.ed.workmate_countries.ui.screens.MainViewModel
 import com.app.k1.ed.workmate_countries.ui.screens.detailscountry.DetailsCountryScreen
 import com.app.k1.ed.workmate_countries.ui.screens.listcountry.ListCountryScreen
@@ -27,7 +26,7 @@ fun NavGraph(
     navController: NavHostController,
     modifier: Modifier,
     viewModel: MainViewModel
-){
+) {
     NavHost(
         modifier = modifier,
         navController = navController,

@@ -1,3 +1,13 @@
 <resources>
-    <string name="app_name">Workmate-Countries-</string>
+    <string name="app_name">Workmate-Countries</string>
+    <string name="txt_countries">Countries</string>
+    <string name="txt_continent">Continent</string>
+    <string name="txt_capital">Capital</string>
+    <string name="txt_region">Region</string>
+    <string name="txt_population">Population</string>
+    <string name="txt_area">Area</string>
+    <string name="txt_currency">Currency</string>
+    <string name="txt_timezones">Time Zones</string>
+
+    <string name="err_internet">Internet not found</string>
 </resources>

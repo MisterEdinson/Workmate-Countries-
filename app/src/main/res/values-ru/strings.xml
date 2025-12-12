@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Workmate-Countries</string>
+    <string name="txt_countries">Страны</string>
+    <string name="txt_continent">Континент</string>
+    <string name="txt_capital">Столица</string>
+    <string name="txt_region">Регион</string>
+    <string name="txt_population">Население</string>
+    <string name="txt_area">Площадь</string>
+    <string name="txt_currency">Валюта</string>
+    <string name="txt_timezones">Часовые пояса</string>
+
+    <string name="err_internet">Нет интернета</string>
+</resources>
